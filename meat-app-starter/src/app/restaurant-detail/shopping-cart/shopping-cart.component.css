@@ -1,0 +1,21 @@
+.carrinho-com-item{
+	color: #FFFFFF;
+	font-size: 20px;
+
+}
+
+.carrinho-sem-item{
+	color: #FFFFFF;
+	font-size: 20px;
+
+}
+
+.imagem{
+	width: 124px;
+	height: 124px;
+}
+
+.bg-header-box{
+	background-color: #DD4B39;
+	color: #FFFFFF;
+}
